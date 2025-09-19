@@ -1,0 +1,5 @@
+document.querySelectorAll('a[href="https://forms.gle/th6iztvvy3mdmbLSA"]').forEach(button => {
+  button.addEventListener('click', function() {
+    alert('Redirecting to Cognify’s waitlist form. Thanks for your interest!');
+  });
+});

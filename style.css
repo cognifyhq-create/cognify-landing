@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+.container {
+  max-width: 1200px;
+}
+a:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
